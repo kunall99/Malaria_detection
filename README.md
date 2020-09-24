@@ -1,5 +1,5 @@
 # Malaria_detection
-This is a malaria detection problem. This model takes the image of cell and predicts whether the cell is uninfected or parasite.
+This is a malaria detection problem. This model takes the image of cell and predicts whether the cell is uninfected or parasite.  <br />
 This solution is based on the transfer learning and I used VGG19 in this.
 
 # Running the model
